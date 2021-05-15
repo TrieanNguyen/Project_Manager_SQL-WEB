@@ -75,7 +75,7 @@
     
 ## ***INSTALLATION***
 
-* You can install this project in [Technical company manager](https://github.com/ThadaPhan/Project_Manager_Web .git)
+* You can install this project in [Technical company manager](https://github.com/TrieanNguyen/Project_Manager_SQL-WEB.git)
 
 ## ***BUILD***
 
