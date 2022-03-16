@@ -58,20 +58,67 @@
    </table>
    
    * Proceduces:
-     * Find, insert, edit, delete for every object (employee, project, task, ...).
-     * Sum salary follow mont, quarter, year for employee in one or all department.
-     * ...
+     * Lấy tất cả thông tin của nhân viên và tài khoản tương ứng nếu có.
+     * Lấy tất cả thông tin của phòng ban và tên trưởng phòng tương ứng
+     * Lấy số lượng phòng ban hiện tại
+     * Thêm một phòng ban
+     * Tìm một phòng ban
+     * Sửa thông tin một phòng ban
+     * Xóa thông tin một phòng ban
+     * Lấy tất cả thông tin nhân viên và tên phòng ban tương ứng
+     * Tìm nhân viên
+     * Lấy số lượng nhân viên
+     * Thêm nhân viên
+     * Thêm tài khoản
+     * Lấy tất cả thông tin dự án
+     * Lấy danh sách công việc trong một dự án
+     * Xóa dự án
+     * Tìm dự án dựa vào mã dự án
+     * Lấy số lượng dự án
+     * Thêm dự án
+     * Sửa dự án
+     * Đếm số lượng công việc
+     * Thêm công việc
+     * Xóa công việc
+     * Tìm công việc
+     * Sửa công viêc
+     * Đổi mật khẩu
+     * Lấy danh sách dự án của một phòng ban dựa vào mã trưởng phòng ban
+     * Lấy danh sách dự án dựa vào mã trưởng dự án
+     * Lấy danh sách dự án mà người đó có tham gia
+     * Lấy tất cả thông tin của phòng ban và tên trưởng phòng tương ứng của một trưởng phòng
+     * Lấy tất cả thông tin của phòng ban và tên trưởng phòng tương ứng của một nhân viên.
+     * Lấy tất cả thông tin nhân viên và tên phòng ban tương ứng của từng nhân viên.
+     * Thống kê lương của công ty theo tháng
+     * Thống kê lương của công ty theo quý
+     * Thống kê lương của công ty theo năm
+     * Thống kê lương của phòng ban theo quý
+     * Thống kê lương của phòng ban theo năm
    * Function:
-     * Check a object was deleted.
-     * Function support proceduces calculate salary.
-     * ...
+     * Kiểm tra nhân viên đã xóa hay chưa
+     * Kiểm tra phòng ban đã xóa hay chưa
+     * Kiểm tra công việc đã xóa hay chưa
+     * Kiểm tra dự án đã xóa hay chưa
+     * Hỗ trợ tính lương theo tháng
+     * Hỗ trợ tính lương theo quý
+     * Hỗ trợ tính lương theo năm
    * View:
-     * View support proceduces calculate salary.
-     * ...
+     * Danh sách các Project có dealine trong 30 ngày
+     * Danh sách các Task có dealine trong 7 ngày
+     * Danh sách nhân viên
+     * Danh sách nhân viên đã hoàn thành Task
    * Trigger:
-     * Update salary every month.
-     * Update permission.
-     * ...    
+     * Thêm lương trong dự án
+     * Cập nhật lương trong dự án
+     * Thực hiện tính lương theo dự án
+     * Phần trăm hoàn thành dự án
+     * Xóa 1 dự án
+     * Kiểm tra thời gian bắt đầu và kết thúc của công việc
+     * Update thời gian bắt đầu và kết thúc của công việc
+     * Kiểm tra độ tuổi
+     * Kiểm tra giới tính
+     * Kiểm tra đầu vào số điện thoại
+     * Kiểm tra cập nhật số điện thoại  
     
 ## ***INSTALLATION***
 
